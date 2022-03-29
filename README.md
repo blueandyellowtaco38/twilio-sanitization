@@ -25,5 +25,8 @@ $ bash delete_twilio_logs.sh
 $ vi delete_twilio_logs.sh
 ```
 * Navigate cursor down to the first SID using `j` or `k` keys
-* Use the following series of keystrokes, substitute `5` for the number of rows you wish to wrap with quote: `qq I " ESC A " ESC j 5@q`
+* Use the following series of keystrokes, substitute `5` for the number of rows you wish to wrap with quotes (keys are case-sensitive): 
+
+   ```qq I " ESC A " ESC j 5 @ q```
+
 * Type `ZZ` to save and exit the file
