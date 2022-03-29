@@ -3,7 +3,7 @@
 #User input
 account_sid = "AC11111111a11111a1a111111a1aa11aa1"
 auth_token = "11a1111aa1a111a1aaa11aaa11a11aaa"
-log_type = "Transcription" #Set to Calls, Messages, or Transcription
+log_type = "Transcriptions" #Set to Calls, Messages, or Transcriptions
 
 event_sid=(
 #Copy paste Call/Message/Transcript SIDs here
