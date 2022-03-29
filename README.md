@@ -15,7 +15,7 @@ Delete logs quickly using Twilio API
 * Run the script:
 
 ```
-$ bash delete-twilio-logs.sh
+$ bash delete_twilio_logs.sh
 ```
 
 ## Wrap SID List in Quotes
