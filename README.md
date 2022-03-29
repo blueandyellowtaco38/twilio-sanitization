@@ -27,6 +27,6 @@ $ vi delete_twilio_logs.sh
 * Navigate cursor down to the first SID using `j` or `k` keys
 * Use the following series of keystrokes, substitute `5` for the number of rows you wish to wrap with quotes (keys are case-sensitive): 
 
-   ```qq I " ESC A " ESC j 5 @ q```
+   ```qq I " ESC A " ESC j q 5 @ q```
 
 * Type `ZZ` to save and exit the file
